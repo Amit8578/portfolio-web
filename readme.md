@@ -2,7 +2,7 @@
 # Product Design LandingPage.png
 # [vercel](https://product-design-landing-page-png.vercel.app/)
 ## Project 15 | Product Design LandingPage.png <a><button name="button" style = "color: red" onclick="https:">`HTML CSS` project 15</button></a>
-### By mohanverse
+### By Amit
 
 
 
